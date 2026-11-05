@@ -1,6 +1,6 @@
 # Novero Terms of Use
 
-_Last updated: November 3, 2026_
+_Last updated: November 4, 2026_
 
 These Terms are an agreement between you and Novero. By creating an account or using Novero, you agree to them. Novero is currently in beta, so features may change and the service may be interrupted.
 

@@ -1,6 +1,6 @@
 # Novero Privacy Policy
 
-_Last updated: November 3, 2026_
+_Last updated: November 4, 2026_
 
 Novero is an audio-first social app for sharing short voice posts called Pods. This policy explains what we collect, why, and the choices you have. Novero is currently in beta.
 
@@ -11,6 +11,8 @@ Novero is an audio-first social app for sharing short voice posts called Pods. T
 - Content you create: Pods (audio recordings and their titles, captions, and hashtags), comments, likes, saves, and follows.
 - Safety information: accounts you block and reports you submit.
 - Basic usage counts, such as how many times a Pod has been played.
+- Listening activity: which Pods you play, how much of each you hear, and where in the app you heard them, plus the topics you pick and Pods you mark Not interested.
+- App usage analytics: screens you visit, errors the app runs into, and basic device and app-version information, linked to your account. We never send your recordings, captions, comments, or searches.
 
 ## What stays on your device
 
@@ -21,18 +23,23 @@ The microphone is used only while you record a Pod. When you import audio from a
 ## How we use your information
 
 - To run Novero: create your account, publish and play Pods, and show comments, likes, follows, and notifications.
+- To recommend Pods in your New feed, based on the topics you pick and what you listen to.
+- To understand how Novero is used and improve it.
 - To keep the community safe: review reports, remove content that breaks our Terms, and enforce blocks.
 - To respond when you contact us.
 
-We do not sell your personal information, show ads, or use third-party analytics or tracking.
+We do not sell your personal information, show ads, or track you across other companies’ apps or websites.
 
 ## Who can see your information
 
 Your profile, Pods, comments, likes, and follows are visible to other signed-in Novero users, except people you have blocked (and people who have blocked you). Your email address, blocks, saves, and reports are private.
 
+Your listening activity is private; other people only see a Pod’s total play count.
+
 ## Service providers
 
 - Supabase hosts our database, file storage, and sign-in (servers in the United States).
+- PostHog receives app usage analytics (servers in the United States).
 - Expo delivers app updates.
 - Apple distributes the app through TestFlight and the App Store.
 
@@ -40,7 +47,9 @@ These providers process data only to provide their services to us.
 
 ## Keeping and deleting your data
 
-We keep your information while your account exists. You can delete a Pod at any time, and you can delete your whole account in Settings → Delete account. Deleting your account permanently removes your profile, Pods and their audio, comments, likes, saves, follows, blocks, and reports. Copies may remain in our providers’ backups for a limited time before they are overwritten.
+We keep your information while your account exists. You can delete a Pod at any time, and you can delete your whole account in Settings → Delete account. Deleting your account permanently removes your profile, Pods and their audio, comments, likes, saves, follows, blocks, reports, listening activity, and topics. Copies may remain in our providers’ backups for a limited time before they are overwritten.
+
+Listening activity is deleted after 90 days. PostHog keeps app usage analytics for up to 1 year.
 
 ## Your choices and rights
 
