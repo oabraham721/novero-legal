@@ -1,6 +1,6 @@
 # Novero Privacy Policy
 
-_Last updated: November 4, 2026_
+_Last updated: November 12, 2026_
 
 Novero is an audio-first social app for sharing short voice posts called Novas. This policy explains what we collect, why, and the choices you have. Novero is currently in beta.
 
@@ -13,10 +13,13 @@ Novero is an audio-first social app for sharing short voice posts called Novas. 
 - Basic usage counts, such as how many times a Nova has been played.
 - Listening activity: which Novas you play, how much of each you hear, and where in the app you heard them, plus the topics you pick and Novas you mark Not interested.
 - App usage analytics: screens you visit, errors the app runs into, and basic device and app-version information, linked to your account. We never send your recordings, captions, comments, or searches.
+- Notifications: if you allow them, a push token for your phone (a code that lets us send it notifications), your notification choices, and your time zone (for quiet hours). Notifications never include comment text or Nova titles.
 
 ## What stays on your device
 
 Playback preferences (speed, Autoplay, Pocket Mode, Picture in Picture) and where you left off in Novas are stored only on your device.
+
+Daily posting reminders are scheduled on your phone; turn them off in Settings → Notifications.
 
 The microphone is used only while you record a Nova. When you import audio from a video, you choose the video in the system picker; only the audio clip you select is uploaded, never the video.
 
@@ -40,14 +43,14 @@ Your listening activity is private; other people only see a Nova’s total play 
 
 - Supabase hosts our database, file storage, and sign-in (servers in the United States).
 - PostHog receives app usage analytics (servers in the United States).
-- Expo delivers app updates.
+- Expo delivers app updates and push notifications (Apple delivers them to your iPhone).
 - Apple distributes the app through TestFlight and the App Store.
 
 These providers process data only to provide their services to us.
 
 ## Keeping and deleting your data
 
-We keep your information while your account exists. You can delete a Nova at any time, and you can delete your whole account in Settings → Delete account. Deleting your account permanently removes your profile, Novas and their audio, comments, likes, saves, follows, blocks, reports, listening activity, and topics. Copies may remain in our providers’ backups for a limited time before they are overwritten.
+We keep your information while your account exists. You can delete a Nova at any time, and you can delete your whole account in Settings → Delete account. Deleting your account permanently removes your profile, Novas and their audio, comments, likes, saves, follows, blocks, reports, listening activity, topics, and notification settings and push tokens. Copies may remain in our providers’ backups for a limited time before they are overwritten.
 
 Listening activity is deleted after 90 days. PostHog keeps app usage analytics for up to 1 year.
 
