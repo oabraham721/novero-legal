@@ -2,28 +2,28 @@
 
 _Last updated: November 4, 2026_
 
-Novero is an audio-first social app for sharing short voice posts called Pods. This policy explains what we collect, why, and the choices you have. Novero is currently in beta.
+Novero is an audio-first social app for sharing short voice posts called Novas. This policy explains what we collect, why, and the choices you have. Novero is currently in beta.
 
 ## What we collect
 
 - Account information: your email address and password (stored securely as a hash by our hosting provider).
 - Profile information you add: username, display name, bio, and profile photo.
-- Content you create: Pods (audio recordings and their titles, captions, and hashtags), comments, likes, saves, and follows.
+- Content you create: Novas (audio recordings and their titles, captions, and hashtags), comments, likes, saves, and follows.
 - Safety information: accounts you block and reports you submit.
-- Basic usage counts, such as how many times a Pod has been played.
-- Listening activity: which Pods you play, how much of each you hear, and where in the app you heard them, plus the topics you pick and Pods you mark Not interested.
+- Basic usage counts, such as how many times a Nova has been played.
+- Listening activity: which Novas you play, how much of each you hear, and where in the app you heard them, plus the topics you pick and Novas you mark Not interested.
 - App usage analytics: screens you visit, errors the app runs into, and basic device and app-version information, linked to your account. We never send your recordings, captions, comments, or searches.
 
 ## What stays on your device
 
-Playback preferences (speed, Autoplay, Pocket Mode, Picture in Picture) and where you left off in Pods are stored only on your device.
+Playback preferences (speed, Autoplay, Pocket Mode, Picture in Picture) and where you left off in Novas are stored only on your device.
 
-The microphone is used only while you record a Pod. When you import audio from a video, you choose the video in the system picker; only the audio clip you select is uploaded, never the video.
+The microphone is used only while you record a Nova. When you import audio from a video, you choose the video in the system picker; only the audio clip you select is uploaded, never the video.
 
 ## How we use your information
 
-- To run Novero: create your account, publish and play Pods, and show comments, likes, follows, and notifications.
-- To recommend Pods in your New feed, based on the topics you pick and what you listen to.
+- To run Novero: create your account, publish and play Novas, and show comments, likes, follows, and notifications.
+- To recommend Novas in your New feed, based on the topics you pick and what you listen to.
 - To understand how Novero is used and improve it.
 - To keep the community safe: review reports, remove content that breaks our Terms, and enforce blocks.
 - To respond when you contact us.
@@ -32,9 +32,9 @@ We do not sell your personal information, show ads, or track you across other co
 
 ## Who can see your information
 
-Your profile, Pods, comments, likes, and follows are visible to other signed-in Novero users, except people you have blocked (and people who have blocked you). Your email address, blocks, saves, and reports are private.
+Your profile, Novas, comments, likes, and follows are visible to other signed-in Novero users, except people you have blocked (and people who have blocked you). Your email address, blocks, saves, and reports are private.
 
-Your listening activity is private; other people only see a Pod’s total play count.
+Your listening activity is private; other people only see a Nova’s total play count.
 
 ## Service providers
 
@@ -47,7 +47,7 @@ These providers process data only to provide their services to us.
 
 ## Keeping and deleting your data
 
-We keep your information while your account exists. You can delete a Pod at any time, and you can delete your whole account in Settings → Delete account. Deleting your account permanently removes your profile, Pods and their audio, comments, likes, saves, follows, blocks, reports, listening activity, and topics. Copies may remain in our providers’ backups for a limited time before they are overwritten.
+We keep your information while your account exists. You can delete a Nova at any time, and you can delete your whole account in Settings → Delete account. Deleting your account permanently removes your profile, Novas and their audio, comments, likes, saves, follows, blocks, reports, listening activity, and topics. Copies may remain in our providers’ backups for a limited time before they are overwritten.
 
 Listening activity is deleted after 90 days. PostHog keeps app usage analytics for up to 1 year.
 

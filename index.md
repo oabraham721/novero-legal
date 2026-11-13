@@ -1,6 +1,6 @@
 # Novero
 
-Novero is an audio-first social app for short voice posts called Pods.
+Novero is an audio-first social app for short voice posts called Novas.
 
 - [Privacy Policy](privacy-policy)
 - [Terms of Use](terms-of-use)

@@ -10,9 +10,9 @@ You must be at least 13 years old (or the minimum age in your country) and able 
 
 ## Your content
 
-You own the Pods, comments, and other content you post. You give Novero a worldwide, non-exclusive, royalty-free license to host, store, stream, and display that content in order to operate the service. The license ends when you delete the content or your account, except for copies in backups for a limited time.
+You own the Novas, comments, and other content you post. You give Novero a worldwide, non-exclusive, royalty-free license to host, store, stream, and display that content in order to operate the service. The license ends when you delete the content or your account, except for copies in backups for a limited time.
 
-Only post content you have the right to share. If your Pod includes someone else’s voice, music, or work, you must have their permission.
+Only post content you have the right to share. If your Nova includes someone else’s voice, music, or work, you must have their permission.
 
 ## Zero tolerance for objectionable content
 
@@ -28,7 +28,7 @@ Novero has no tolerance for objectionable content or abusive users. Do not post 
 
 ## Reporting, blocking, and enforcement
 
-You can report any Pod, comment, or account, and block any user, from within the app. We review reports within 24 hours and remove content that breaks these Terms. We may remove content and suspend or permanently ban accounts that violate these Terms, at our discretion and without notice.
+You can report any Nova, comment, or account, and block any user, from within the app. We review reports within 24 hours and remove content that breaks these Terms. We may remove content and suspend or permanently ban accounts that violate these Terms, at our discretion and without notice.
 
 ## Copyright complaints
 
